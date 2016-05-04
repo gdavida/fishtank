@@ -1,11 +1,7 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  name: MyString
-  rock_color: MyString
-  shelter: MyString
+  name: "Aqueon"
+  rock_color: "purple"
+  shelter: "castle"
 
-two:
-  name: MyString
-  rock_color: MyString
-  shelter: MyString
